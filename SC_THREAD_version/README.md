@@ -26,13 +26,21 @@ sc_main
 ## Project directory hierachy
 ```
 Simple_Timer_in_SystemC/
-    +-- src/
-    |   +-- main.cpp
-    |   +--	makefile
-    |   +--	timer.cpp
-    |   +--	timer.h
+    +-- SC_THREAD_version/
+    |   +-- src/
+    |   |    +-- main.cpp
+    |   |    +-- makefile
+    |   |    +-- timer.cpp
+    |   |    +-- timer.h
+    |   README.md
+    +-- SC_CTHREAD_version/
+    |   +-- src/
+    |   |    +-- main.cpp
+    |   |    +-- makefile
+    |   |    +-- timer.cpp
+    |   |    +-- timer.h
+    |   README.md
     |
-    README.md
 ```
 
 
